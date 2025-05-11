@@ -1,3 +1,7 @@
+# Keming He
+
+LinkedIn: [https://linkedin.com/in/keminghe](https://linkedin.com/in/keminghe)
+
 ## Project Principles
 
 Note-to-self: keep these in mind while building. [^inspiration]
@@ -9,4 +13,11 @@ Note-to-self: keep these in mind while building. [^inspiration]
 3. Make it free, open-source, and educational;
 4. Keep it legal, professional, and public-serving.
 
-`TODO: migrate to Smol Notes App when ready.`
+## Daily Standups
+
+Keep standups focused on open-source work only. No work/school/personal content.
+
+1. Create branch: `git switch -c docs/YYYY-MM-DD-standup/KemingHe`
+2. Copy template: `cp standup-template.md standups/YYYY-MM-DD-standup.md`
+3. Complete the standup document (5 min max)
+4. Commit, push, and merge via PR
