@@ -10,7 +10,7 @@
 
 ## DOINGs
 
-- [ ] LinkedIn check-ins (.5hr to spend)
+- [ ] LinkedIn check-ins (0.5hr to spend)
 - [ ] Task in progress (Xhr to spend)
 - [ ] Task in progress (Xhr to spend)
 
@@ -22,4 +22,4 @@
 
 ---
 
-> Template ver1.0 - Keming He
+> Standup Template v1.0.0 - Keming He
