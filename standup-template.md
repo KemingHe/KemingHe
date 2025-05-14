@@ -16,9 +16,9 @@
 
 ## BLOCKERs
 
-- [ ] Issue/blocker description
-- [ ] Issue/blocker description
-- [ ] Issue/blocker description
+- Issue/blocker description
+- Issue/blocker description
+- Issue/blocker description
 
 ---
 
