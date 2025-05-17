@@ -2,19 +2,19 @@
 
 > Last updated on [YYYY-MM-DD]
 
-## DONEs
+## DONE
 
 - [x] Followed-up with LinkedIn conversations (0.5hr spent)
 - [ ] Task completed (Xhr spent)
 - [ ] Task completed (Xhr spent)
 
-## DOINGs
+## DOING
 
 - [x] Make new LinkedIn connections (0.5hr to spend)
 - [ ] Task in progress (Xhr to spend)
 - [ ] Task in progress (Xhr to spend)
 
-## BLOCKERs
+## BLOCKER
 
 - Issue/blocker description
 - Issue/blocker description
@@ -22,4 +22,4 @@
 
 ---
 
-> Standup Template v1.0.1 - Keming He
+> Standup Template v1.0.2 - Keming He
