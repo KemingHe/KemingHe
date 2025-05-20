@@ -4,7 +4,7 @@
 
 ## Dones
 
-- [x] Made new LinkedIn connections (0.5hr to spend)
+- [x] Made new LinkedIn connections (0.5hr spent)
 - [x] Followed-up with LinkedIn conversations (0.5hr spent)
 - [ ] Task completed (Xhr spent)
 
