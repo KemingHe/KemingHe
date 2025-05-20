@@ -11,8 +11,6 @@
 ## Doings
 
 - [ ] Task in progress (Xhr to spend)
-- [ ] Task in progress (Xhr to spend)
-- [ ] Task in progress (Xhr to spend)
 
 ## Blockers
 
