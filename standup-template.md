@@ -4,8 +4,8 @@
 
 ## Dones
 
+- [x] Followed up with LinkedIn conversations (0.5hr spent)
 - [x] Made new LinkedIn connections (0.5hr spent)
-- [x] Followed-up with LinkedIn conversations (0.5hr spent)
 - [ ] Task completed (Xhr spent)
 
 ## Doings
@@ -15,9 +15,7 @@
 ## Blockers
 
 - Issue/blocker description
-- Issue/blocker description
-- Issue/blocker description
 
 ---
 
-> Standup Template v1.0.3 - Keming He
+> Standup Template v1.0.4 - Keming He
