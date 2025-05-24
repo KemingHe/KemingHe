@@ -4,8 +4,8 @@
 
 ## Dones
 
-- [x] Followed up with LinkedIn conversations (0.5hr spent)
-- [x] Made new LinkedIn connections (0.5hr spent)
+- [x] LinkedIn conversations follow-up (1hr spent)
+- [x] New sr. data LinkedIn connections (0.5hr spent)
 - [ ] Task completed (Xhr spent)
 
 ## Doings
@@ -18,4 +18,4 @@
 
 ---
 
-> Standup Template v1.0.4 - Keming He
+> Standup Template v1.0.5 - Keming He
