@@ -4,13 +4,13 @@
 
 ## Dones
 
-- [x] LinkedIn conversations follow-up (1hr spent)
-- [x] New sr. data LinkedIn connections (0.5hr spent)
-- [ ] Task completed (Xhr spent)
+- [x] LinkedIn follow-up - [specify topic 1] (1 hr spent)
+- [x] LinkedIn invite - sr. data Ohio State (0.5 hr spent)
+- [x] Task completed (X hr spent)
 
 ## Doings
 
-- [ ] Task in progress (Xhr to spend)
+- [ ] Task in progress (X hr to spend)
 
 ## Blockers
 
@@ -18,4 +18,4 @@
 
 ---
 
-> Standup Template v1.0.5 - Keming He
+> Standup Template v1.0.6 - Keming He
