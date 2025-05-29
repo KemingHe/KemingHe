@@ -1,4 +1,4 @@
-# Daily Standup
+# Daily Standup - [YYYY-MM-DD]
 
 > Last updated on [YYYY-MM-DD]
 
@@ -18,4 +18,4 @@
 
 ---
 
-> Standup Template v1.0.6 - Keming He
+> Standup Template v1.0.7 - Keming He
