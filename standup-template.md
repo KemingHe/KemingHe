@@ -1,11 +1,11 @@
-# Daily Standup - [YYYY-MM-DD]
+# Daily Standup on [YYYY-MM-DD]
 
 > Last updated on [YYYY-MM-DD]
 
 ## Dones
 
 - [x] LinkedIn follow-up - [specify topic 1] (1 hr spent)
-- [x] LinkedIn invite - Sr. data Ohio State (0.5 hr spent)
+- [x] LinkedIn search and invite - "Sr. data Ohio State" (0.5 hr spent)
 - [x] Task completed (X hr spent)
 
 ## Doings
@@ -18,4 +18,4 @@
 
 ---
 
-> Standup Template v1.0.7 - Keming He
+> Standup Template v1.0.8 - Keming He
