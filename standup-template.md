@@ -2,13 +2,13 @@
 
 > Last updated on [YYYY-MM-DD]
 
-## Dones
+## Completed
 
 - [x] LinkedIn follow-up - [specify topic 1] (1 hr spent)
 - [ ] LinkedIn search and invitations - "Sr. data Ohio State" (0.5 hr spent)
 - [x] Task completed (X hr spent)
 
-## Doings
+## In Progress
 
 - [ ] Task in progress (X hr to spend)
 
@@ -18,4 +18,4 @@
 
 ---
 
-> Standup Template v1.0.9 - Keming He
+> Standup Template v1.0.10 - Keming He
