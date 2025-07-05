@@ -1,6 +1,6 @@
 # Daily Standup on [YYYY-MM-DD]
 
-> Last updated on [YYYY-MM-DD]
+> Updated on [YYYY-MM-DD] by @KemingHe
 
 ## Completed
 
@@ -18,4 +18,4 @@
 
 ---
 
-> Standup Template v1.0.10 - Keming He
+> Standup Template v1.0.11 - Keming He
