@@ -1,6 +1,6 @@
 # Keming He
 
-LinkedIn: [https://linkedin.com/in/keminghe](https://linkedin.com/in/keminghe)
+[[LinkedIn]](https://linkedin.com/in/keminghe) and [[Resume]](./resumes/)
 
 ## Project Principles
 
@@ -15,9 +15,4 @@ Note-to-self: keep these in mind while building. [^inspiration]
 
 ## [Daily Standups](./standups)
 
-Keep standups focused on open-source work only. No work/school/personal content.
-
-1. Create branch: `git switch -c docs/YYYY-MM-DD-standup/KemingHe`
-2. Copy template: `cp standup-template.md standups/YYYY-MM-DD-standup.md`
-3. Complete the standup document (5 min max)
-4. Commit, push, and merge via PR
+> To self: keep standups focused on open-source work.
