@@ -1,0 +1,20 @@
+I build AI automation systems that deliver immediate business impact. 2025 summer at Botcopy, I've accelerated test execution by 11.3x and achieved zero rework while securing government infrastructure.
+
+Recent Impact:
+▪️ Spoke at PyOhio 2025 after analyzing 21.9M repositories, revealing why faster tools don't guarantee adoption, and offering unifying solution
+▪️ Reduced AI costs by 95% ($20→<$1/month) with Buckeye GPT 
+▪️ Won 3rd at Make OHI/O 2025—concept to deployment in 12 hours
+▪️ Cut dependencies by 80% and increased speed by 90% at GitHub Socialify
+
+Technical Expertise:
+▪️ AI/ML: LangChain, Pinecone Vector DB, Google Gemini
+▪️ Full Stack: React, Next.js, Node.js, Express.js
+▪️ Infrastructure: Terraform, Docker, GitHub Actions
+▪️ Certifications: GCP Professional Cloud Developer, Terraform Associate
+
+Key Differentiator: 
+I combine technical depth with business acumen (CS + Business minor) to deliver solutions that are both elegant and profitable. My track record shows security-first design, consistent on-time delivery, comprehensive test coverage, and scalable infrastructure.
+
+Currently pursuing my CS degree at Ohio State (May 2027) while actively shipping production code. 
+
+Let's connect if you are looking for someone who can transform complex AI challenges into lean, secure, observable systems that drive measurable value.

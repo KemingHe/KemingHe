@@ -13,7 +13,7 @@ Note-to-self: keep these in mind while building. [^inspiration]
 3. Make it free, open-source, and educational;
 4. Keep it legal, professional, and public-serving.
 
-## [Daily Standups](./)
+## [Daily Standups](./standups)
 
 Keep standups focused on open-source work only. No work/school/personal content.
 

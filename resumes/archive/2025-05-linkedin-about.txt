@@ -1,0 +1,17 @@
+I transform complex technical challenges into elegant, cost-effective solutions. As a certified Google Cloud Developer and Terraform Associate, I've reduced costs by 95% for AI applications and accelerated development workflows by 90% through strategic tooling decisions.
+
+My technical journey spans full-stack development, cloud architecture, and DevOps automation. What drives me is finding the perfect balance between performance, accessibility, and maintainability—delivering value that exceeds expectations while reducing friction for both users and developers.
+
+Key Achievements:
+▪️ Engineered Buckeye GPT, a Google Gemini-powered alternative to ChatGPT that slashed costs from $20 to under $1/month while maintaining enterprise-grade reliability through comprehensive testing pipelines
+▪️ Led critical Next.js architecture migration at GitHub Socialify with zero regressions using Playwright e2e testing, while improving development velocity through 90% faster linting
+▪️ Created StrainSeer, a research software sustainability tool that earned 3rd place at Make OHI/O 2025 Hackathon, deploying from concept to production in just 12 hours with cross-platform Docker support
+▪️ Delivered OSU's research mentorship web application three weeks ahead of schedule while mentoring junior developers in agile methodologies
+
+Throughout my academic journey, I've demonstrated resilience and continuous growth, applying my expanding technical toolkit to real-world problems. My cloud certifications (GCP Developer and HashiCorp Terraform Associate) complement my hands-on experience with Next.js, React, Python, Go, and modern CI/CD practices.
+
+I bring a unique perspective that blends technical precision with business acumen (thanks to my business minor). This combination allows me to bridge the gap between technical possibilities and business objectives, delivering solutions that not only work well but create measurable value.
+
+Currently pursuing my CS degree at Ohio State University while building production applications, I'm seeking opportunities to collaborate with forward-thinking teams on challenging problems.
+
+Connect with me to discuss how my expertise in cloud-native development, cost optimization, and accessible UI/UX can help your organization build more reliable, efficient digital experiences.
